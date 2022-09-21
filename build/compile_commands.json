@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/LDYPractice/LEDBLINK/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/LDYPractice/LEDBLINK/./HW/BUTTON -I/home/ubuntu/LDYPractice/LEDBLINK/./HW/LED -g -Wall -o CMakeFiles/LEDBLINK.dir/HW/BUTTON/BUTTON.cpp.o -c /home/ubuntu/LDYPractice/LEDBLINK/HW/BUTTON/BUTTON.cpp",
+  "file": "/home/ubuntu/LDYPractice/LEDBLINK/HW/BUTTON/BUTTON.cpp"
+},
+{
+  "directory": "/home/ubuntu/LDYPractice/LEDBLINK/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/LDYPractice/LEDBLINK/./HW/BUTTON -I/home/ubuntu/LDYPractice/LEDBLINK/./HW/LED -g -Wall -o CMakeFiles/LEDBLINK.dir/HW/LED/LED.cpp.o -c /home/ubuntu/LDYPractice/LEDBLINK/HW/LED/LED.cpp",
+  "file": "/home/ubuntu/LDYPractice/LEDBLINK/HW/LED/LED.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/LEDBLINK.dir/HW/BUTTON/BUTTON.cpp.o CMakeFiles/LEDBLINK.dir/HW/LED/LED.cpp.o -o LEDBLINK  -lwiringPi 
